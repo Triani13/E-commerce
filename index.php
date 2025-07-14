@@ -105,7 +105,7 @@ try {
         
         /* Hero Section */
         .hero {
-            background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://cdn.pixabay.com/photo/2024/04/20/11/47/ai-generated-8708404_1280.jpg') no-repeat center center/cover;;
+            background: linear-gradient(135deg, #2E7D32 0%, #4CAF50 100%);
             color: white;
             padding: 4rem 0;
             text-align: center;
@@ -498,11 +498,11 @@ try {
                     <h3>Kontak</h3>
                     <p>📧 info@mitratanijaya.com</p>
                     <p>📱 +62 812-3456-7890</p>
-                    <p>📍 Luwu Timur, Indonesia</p>
+                    <p>📍 Jakarta, Indonesia</p>
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2025 Mitra Tani Jaya. Semua hak dilindungi.</p>
+                <p>&copy; 2024 Mitra Tani Jaya. Semua hak dilindungi.</p>
             </div>
         </div>
     </footer>
